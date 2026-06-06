@@ -7,7 +7,7 @@
 <p>
   Yuheng Chen<sup>1,*</sup> &nbsp;
   Teng Hu<sup>1,*</sup> &nbsp;
-  Yuji Wang<sup>1,*</sup> &nbsp;
+  Yuji Wang<sup>1</sup> &nbsp;
   Qingdong He<sup>2</sup> &nbsp;
   Lizhuang Ma<sup>1,&dagger;</sup> &nbsp;
   Jiangning Zhang<sup>3,&Dagger;</sup>
